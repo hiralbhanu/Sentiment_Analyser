@@ -1,45 +1,45 @@
-SE-Project-Group-38
-Sentiment Analyser
+# SE-Project-Group-38
+# Sentiment Analyser
 A software that predicts the sentiment of the sentences a person enters.
 
-Build StatusLicence DOI
+[Licence](https://img.shields.io/github/license/hiralbhanu/Sentiment_Analyser)
+[![DOI](https://zenodo.org/badge/410657637.svg)](https://doi.org/10.5281/zenodo.5542211)
 
 
-
-Click on the image below to view the video of the software
-
-
-Use Cases
-E-Commerce websites and companies can easily find the sentiments of its users by analysing their reviews.
+**Click on the image below to view the video of the software
 
 
-Installation
-Clone the repository using git clone https://github.com/hiralbhanu/Sentiment_Analyser.git
+## Use Cases
+-E-Commerce websites and companies can easily find the sentiments of its users by analysing their reviews.
 
 
-Running the Project
+## Installation
+-Clone the repository using git clone https://github.com/hiralbhanu/Sentiment_Analyser.git
 
 
-Running Application
+### Running the Project
+
+
+### Running Application
 Go to the code folder of the project in command line and run python app.py
 
-Languages
-Python
-HTML
-CSS
+## Languages
+- Python
+- HTML
+- CSS
 
-Software Requirements
-Python
-Flask
+## Software Requirements
+- Python
+- Flask
 
-Style Checker and Analyzer
+## Style Checker and Analyzer
 
-Code Formatter
+## Code Formatter
 
-Syntax Checker
+## Syntax Checker
 
 
-Setup
+## Setup
 
 
 
