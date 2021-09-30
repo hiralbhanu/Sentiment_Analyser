@@ -1,5 +1,5 @@
 Cite as ...
-Group 38, Translator, September 2021
+Group 38, Sentiment Analyser, September 2021
 
 citation-version: 1.0.0 message: "Following is the format if you want to cite the software or system" authors:
 
@@ -11,7 +11,6 @@ family-name: "Bhanushali" given-name: "Hiral"
 
 family-name: "Ho" given-name: "Angela"
 
-family-name: "Agarwal" given-name: "Neha Balram"
 
 title: "Software Engineering(CSC510): Project-Group-38" version: v1.0.0 doi: 10.5281/zenodo.5533076 date-released: 09/27/2021 url: "https://doi.org/10.5281/zenodo.5533076"
 
