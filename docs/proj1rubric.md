@@ -12,13 +12,13 @@
 | Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | 2 | |
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | 2 | |
 | Use of version control tools | 3 | |	
-| Use of style checkers |  | |
-| Use of code formatters | | |
-| Use of syntax checkers | | |
-| Use of code coverage | | |
-| Other automated analysis tools | | |
-| test cases exist | | |
-| test cases are routinely executed | | | 
+| Use of style checkers | 2 | |
+| Use of code formatters | 2 | |
+| Use of code coverage | 2 | |
+| Use of syntax checkers | 0 |   |
+| Other automated analysis tools | 0 | |
+| test cases exist | 0 | |
+| test cases are routinely executed | 0 | | 
 | the files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | 3 | |
 | issues are discussed before they are closed	| 3 | |
 | Chat channel | 2 | |
