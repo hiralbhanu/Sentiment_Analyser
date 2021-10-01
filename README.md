@@ -5,10 +5,9 @@ A software that predicts the sentiment of the sentences a person enters.
 [Licence](https://img.shields.io/github/license/hiralbhanu/Sentiment_Analyser)
 [![DOI](https://zenodo.org/badge/410657637.svg)](https://doi.org/10.5281/zenodo.5542211)
 
-
-## Video of the Installation
-
 ## Video of the Software
+
+https://user-images.githubusercontent.com/43321682/135562787-845cd363-cb9d-4f54-b117-d97d24ba73f3.mp4
 
 
 ## Use Cases
