@@ -5,7 +5,7 @@ citation-version: 1.0.0 message: "Following is the format if you want to cite th
 
 family-name: "Chauhan" given-name: "Apoorva"
 
-family-name: "Chouhan" given-name: "Hrushabh"
+family-name: "Chouhan" given-name: "Hrushabhsingh"
 
 family-name: "Bhanushali" given-name: "Hiral"
 
