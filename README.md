@@ -6,7 +6,9 @@ A software that predicts the sentiment of the sentences a person enters.
 [![DOI](https://zenodo.org/badge/410657637.svg)](https://doi.org/10.5281/zenodo.5542211)
 
 
-**Click on the image below to view the video of the software
+## Video of the Installation
+
+## Video of the Software
 
 
 ## Use Cases
