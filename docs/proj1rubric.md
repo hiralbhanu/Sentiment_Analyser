@@ -11,9 +11,9 @@
 | Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z | 3 | |
 | Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | 2 | |
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | 3 | |
-| Use of version control tools | 3 | |	
-| Use of style checkers | 2 | |
-| Use of code formatters | 2 | |
+| Use of version control tools | 0 | |	
+| Use of style checkers | 0 | |
+| Use of code formatters | 0 | |
 | Use of code coverage | 2 | |
 | Use of syntax checkers | 0 |   |
 | Other automated analysis tools | 0 | |
