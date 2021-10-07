@@ -10,12 +10,6 @@ import spacy
 
 
 METHODS = {
-    'textblob': {
-        'class': "TextBlobExplainer",
-        'file': None,
-        'name': "TextBlob",
-        'lowercase': False,
-    },
     'vader': {
         'class': "VaderExplainer",
         'file': None,
@@ -33,12 +27,6 @@ METHODS = {
         'file': "data/sst/sst_train.txt",
         'name': "Support Vector Machine",
         'lowercase': False,
-    },
-    'fasttext': {
-        'class': "FastTextExplainer",
-        'file': "models/fasttext/sst5_hyperopt.ftz",
-        'name': "FastText",
-        'lowercase': True,
     },
 }
 
