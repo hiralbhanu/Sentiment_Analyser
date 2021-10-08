@@ -4,7 +4,7 @@ A software that predicts the sentiment of the sentences a person enters.
 
 [Licence](https://img.shields.io/github/license/hiralbhanu/Sentiment_Analyser)
 [![DOI](https://zenodo.org/badge/410657637.svg)](https://doi.org/10.5281/zenodo.5542211)
-[![codecov](https://codecov.io/gh/hiralbhanu/Sentiment_Analyser/branch/main/graph/badge.svg?token=YGOQY4DH9F)](https://codecov.io/gh/hiralbhanu/Sentiment_Analyser)
+[![codecov](https://codecov.io/gh/hiralbhanu/Sentiment_Analyser/branch/main/graph/badge.svg?token=ff137080-9172-409d-90d6-c87004bd414f)](https://codecov.io/gh/hiralbhanu/Sentiment_Analyser)
 
 ## Video of the Software
 
